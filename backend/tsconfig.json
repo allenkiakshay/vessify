@@ -5,8 +5,10 @@
     "moduleResolution": "Bundler",
     "strict": true,
     "skipLibCheck": true,
+    "esModuleInterop": true,
     "types": [
-      "node"
+      "node",
+      "jest"
     ],
     "jsx": "react-jsx",
     "jsxImportSource": "hono/jsx",

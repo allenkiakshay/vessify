@@ -9,7 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "better-auth": "^1.4.7",
     "next": "16.0.10",
+    "next-auth": "^5.0.0-beta.30",
     "react": "19.2.1",
     "react-dom": "19.2.1"
   },
